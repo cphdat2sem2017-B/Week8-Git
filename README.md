@@ -36,7 +36,7 @@ In order to stucture your feedback to the other group, you will pay attention to
 The plan for the day is:
 
 - Short presentation of the tasks for the day, including git issue.
- - We will use this sheet to coordinate who reviews which groups
+ - We will use this [sheet](/exercises/afleveringer.xlsx) to coordinate who reviews which groups
 - You will get 30 minutes to do self critique (raise issues to your own code on github)
 - You will have one hour to read and critique the other groups project
 - You will have 15 minutes to read the critique given by the other group
