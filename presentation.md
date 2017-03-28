@@ -78,7 +78,7 @@ This topic is about using git from the command-line tool: git bash  <br>
 - Insert your prefered editor
 	- `git config --global core.editor "'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"`
 	- test this inside a git repository with:
-		- `git config -e` opens the repos configuration in the default editor. 
+		- `git config --global -edit` opens the repos configuration in the default editor. 
 
 - Get help in the console
 	- `git help` For overall commands
