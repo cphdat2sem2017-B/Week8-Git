@@ -79,9 +79,9 @@ This SP exercise is intended to check that each project group has a GitHub repos
 4. All members must have tried to do one branch, and one merge.
 
 #### Handin 
-The link to this SP exercise should be uploaded to moodle Dat2Sem by Sunday 2<sup>th</sup> April, 23:59. 
+The link to this SP exercise should be uploaded to moodle Dat2Sem under "Git Study Point Exercise" by Sunday 2<sup>th</sup> April, 23:59. 
 
-The front page on git should contain a **list which clarifies who is behind the hand in and each GitHub name**.
+The front page on git should contain a list which clarifies who is behind the hand in and each GitHub name**.
 
 Deadline for Sunday 23:59.
 
