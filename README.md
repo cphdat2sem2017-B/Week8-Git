@@ -43,7 +43,6 @@ The plan for the day is:
 - You will have 2*30 minutes to discuss the critiques based on the issue.
  - If new issues comes up in the discussion, remember to put them on git.
 
-
 ### Tuesday and Wednesday: [2 days on GIT](presentation.md):
 These 2 days covers what you need to know to work efficiently as a team using git and github for code collaboration, version control and backup.  
 - Learning collaboration with git 
@@ -65,27 +64,27 @@ These 2 days covers what you need to know to work efficiently as a team using gi
     - Feature Branch workflow (good for team collaboration on each feature - larger projects)  
     - Forking workflow (good for opensource projects with untrusted third parties)
 
-### Thursday
-The studypoint exercise for this week is to get some preliminary code for your project up on git, and have all of members of the group do at least a couple of commits each.
-
 #### Semester mid-term evaluation
-No - not an exam, but we need to do the semesterly quality assurance with feedback on all aspects of 2 second semester. Delphi (3 good things and three problems, passing around in class) and a questionaire followed by in class discussions.
-
-
-### Friday
-Studypoint exercise day, presence not taken. Deadline for Sunday 23:59.
-
+Delphi (3 good things and three problems, passing around in class) and a questionaire followed by in class discussions.
+	
+### Thursday
+Study point exercise
+The studypoint exercise for this week is to get some preliminary code for your project up on git, and have all of members of the group do at least a couple of commits each.
 
 This SP exercise is intended to check that each project group has a GitHub repository, which should contain:
 
-1. All members of the group should be be visible in the "Contributors" tab (just above the green button on the front page).
-2. The source code from the Thursday exercise should be there, with branches as specified.
+1. Preliminary project source code with branches.
+2. All members of the group should be be visible in the "Contributors" tab (just above the green button on the front page).
 3. All members must have at least two commits with reasonable commit messages
 4. All members must have tried to do one branch, and one merge.
 
 #### Handin 
-The link to this SP exercise should be send to XXX by Sunday 16<sup>th</sup> October, 23:59. 
+The link to this SP exercise should be uploaded to moodle Dat2Sem by Sunday 2<sup>th</sup> October, 23:59. 
 
-The email should also contain a **list which clarifies who is behind each GitHub name**.
+The front page on git should contain a **list which clarifies who is behind the hand in and each GitHub name**.
 
+Deadline for Sunday 23:59.
 
+### Friday
+Study point exercise / Project work
+Attendance not registered
